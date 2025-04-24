@@ -1,14 +1,14 @@
-ABDIWAHID-MD
+# LITE-MD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ᗩᑫOOᑎYᗩᕼᗩᑎKᗩ 🌝💚
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 AQOONYAHANKA 🌝💚
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "  https://files.catbox.moe/pv5306.jpg/crqwko.jpg/bqs70b.jpg"  width="300" height="200">
+<img src ="https://files.catbox.moe/pv5306.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AQOON-MD+MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LITE-MD+MD+WHATSAPP+BOT+MD" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
@@ -16,7 +16,7 @@ ABDIWAHID-MD
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/abdiwahid12/ABDIWAHID-MD/fork"><img title="AQOON-MD" src="https://img.shields.io/badge/FORK-AQOON-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/abdiwahid12/ABDIWAHID-MD/fork"><img title="ABDIWAHID-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -24,7 +24,7 @@ ABDIWAHID-MD
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://ABDIWAHID-MD-session-pair-code-xzcb.onrender.com/?">
+  <a href="https://abdiwahid12-pair-code-xzcb.onrender.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -39,7 +39,7 @@ ABDIWAHID-MD
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FABDIWAHID-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fabdiwahid12%2FABDIWAHID-MD) 
    
    
   2..DEPLOY ON RENDER ⤵️
@@ -98,28 +98,12 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF ABDIWAHID-12
-- [Lord AQOONYAHANKA ](https://github.com/abdiwahid12/
-- Creater and Owner Of ABDIWAHID-MD
+> DEVELOPER OF ABDIWAHID-MD 
+- [Lord Malvin ](https://github.com/abdiwahid12)
+- Creater and Owner Of LITE-MD
 
 > ABDIWAHID-MD Helper
 - [AQOONYAHANKA](https://github.com/abdiwahid12)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
----
-## Features
-- Auto reply (AFK)
-- Group Management (add, remove, promote, demote, kickall)
-- Media download (YouTube, TikTok, Facebook)
-- Welcome/Goodbye messages with image
-- Error handling
-- Broadcast support
-- Database integration
-
-## Pairing WhatsApp
-When you run the bot, a QR code will be shown in the terminal. Scan it using WhatsApp > Linked Devices.
-
-Session will be stored automatically in `.wwebjs_auth/`.
-

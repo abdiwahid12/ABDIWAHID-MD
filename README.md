@@ -11,8 +11,12 @@
 3. Run the bot to scan QR code:
    ```bash
    node index.js
-   ```
+    ```
+## Deploy to Heroku
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+---
 ## Features
 - Auto reply (AFK)
 - Group Management (add, remove, promote, demote, kickall)
